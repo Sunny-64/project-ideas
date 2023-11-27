@@ -1,7 +1,7 @@
 # project-ideas
 List of unique projects to work on.
 
-- ### Language Creator (
+- ### Language Creator
   - User should be able to create a unique language like morse code using set of symbols and numbers.
   - Each alphabet should have some sort of unique symbold assigned by user.
   - They should be able to encode anything they type into their desired encryption.
