@@ -7,3 +7,9 @@ List of unique projects to work on.
   - They should be able to encode anything they type into their desired encryption.
   - user should also be able to decode it.
 It's a fun project to work on.
+
+
+- ### Cloud based diary app
+- A notes app that directly connects to google drive
+- use google drive api
+- store user's diary on the drive.
