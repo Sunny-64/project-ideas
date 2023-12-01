@@ -10,6 +10,6 @@ It's a fun project to work on.
 
 
 - ### Cloud based diary app
-- A notes app that directly connects to google drive
-- use google drive api
-- store user's diary on the drive.
+  - A notes app that directly connects to google drive
+  - use google drive api
+  - store user's diary on the drive.
