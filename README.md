@@ -8,8 +8,6 @@ List of unique projects to work on.
   - They should be able to encode anything they type into their desired encryption.
   - user should also be able to decode it.
 
-
-
 - ### Cloud based diary app
   - A notes app that directly connects to google drive
   - use google drive api
@@ -23,5 +21,7 @@ List of unique projects to work on.
    - Students can post study materials.
    - Everyone who registers will be anonymous.
    - Teachers can also register and guide these students.
+   - Add chatting module so users can interact with each other.
+   - Add study goals and study tracking system like github contributions. 
 
      
